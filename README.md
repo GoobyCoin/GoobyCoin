@@ -2,4 +2,4 @@
 The sourcecode for GoobyCoin
 [placeholder]
 
-# Tutorial
+# Setup / Tutorial
